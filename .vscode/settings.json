@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "cstdlib": "cpp",
+        "cstdio": "cpp",
+        "type_traits": "cpp",
+        "typeinfo": "cpp",
+        "stdlib.h": "c",
+        "cctype": "cpp"
+    }
+}
